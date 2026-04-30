@@ -30,7 +30,6 @@
 - 👨‍💻 All of my projects are available at [Github](project.md)
 - 📝 I regularly write articles on [Medium](https://chandankumarpanigrahi.medium.com/)
 - 💬 Ask me about **HTML, CSS, JS, Bootstrap**
-![Example GIF](https://raw.githubusercontent.com/chandankumarpanigrahi/chandankumarpanigrahi/main/example.gif)
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -63,6 +62,7 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=111111" alt="Adobe XD" /></a>
 </p>
 
+![Example GIF](https://raw.githubusercontent.com/chandankumarpanigrahi/chandankumarpanigrahi/main/example.gif)
 ## GitHub Streak
 
 <a href="http://www.github.com/chandankumarpanigrahi"><img src="https://github-readme-stats.vercel.app/api?username=chandankumarpanigrahi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0c1117&hide_border=true&show_icons=true" alt="chandankumarpanigrahi's GitHub stats" /></a>
