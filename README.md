@@ -20,16 +20,15 @@
     <tr><td><a href="/milaan9/milaan9/blob/main/README_pt.md"><img src="https://github.com/milaan9/milaan9/raw/main/3909444.svg" height="15" style="max-width: 100%;"> Telugu ★☆☆☆☆</a></td></tr>
 </tbody></table>
 
-- [👋](https://res.cloudinary.com/dyvcg2scr/raw/upload/v1691241458/chandan_tqx0va.css) Hi, I’m Chandan Kumar Panigrahi
-- 😚 I'm a Software Engineer at Bhubaneswar. As well as I'ma a Web Designer.
-- 👀 I’m interested in HTML, CSS, SCSS, JS and Python
-- 🌱 I did MCA under BPUT, Odisha and learnt various Online Courses.
-- 🌱 I’m currently learning **Python, React and ExpressJS**
-- 📫 You can reach me on linkedin, Twitter or Discord.
-- 📥 Discord ID: MrChamp#4100
-- 👨‍💻 All of my projects are available at [Github](project.md)
-- 📝 I regularly write articles on [Medium](https://chandankumarpanigrahi.medium.com/)
-- 💬 Ask me about **HTML, CSS, JS, Bootstrap**
+## [👋](https://res.cloudinary.com/dyvcg2scr/raw/upload/v1691241458/chandan_tqx0va.css) Hi, I'm Chandan
+
+UI/UX Designer & Frontend Developer (Bhubaneswar)
+- 🛠️ Stack: Next.js (App Router), React, Tailwind CSS, JavaScript  
+- 🎯 Focus: Clean UI, scalable components, better UX  
+- 🌐 Website: https://your-website-link.com  
+- 🚀 Projects: [GitHub](project.md)  
+- 💬 Ask me about: UI/UX, React, Frontend  
+- 📫 Discord: MrChamp#4100
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
