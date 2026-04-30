@@ -7,8 +7,6 @@
 
 ![Example SVG](https://raw.githubusercontent.com/chandankumarpanigrahi/chandankumarpanigrahi/44d82b16a321bc67f97514776ab8a3172b73cf99/dots.svg)
 
-![Example GIF](https://raw.githubusercontent.com/chandankumarpanigrahi/chandankumarpanigrahi/main/example.gif)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankumarpanigrahi&label=Profile%20views&color=0e75b6&style=flat" alt="chandankumarpanigrahi" />  </p> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chandankumarpanigrahi&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) 
@@ -33,7 +31,7 @@
 - 👨‍💻 All of my projects are available at [Github](project.md)
 - 📝 I regularly write articles on [Medium](https://chandankumarpanigrahi.medium.com/)
 - 💬 Ask me about **HTML, CSS, JS, Bootstrap**
-
+![Example GIF](https://raw.githubusercontent.com/chandankumarpanigrahi/chandankumarpanigrahi/main/example.gif)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/chandankumarpanigrahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/chandankumarpanigrahi" height="30" width="40" /></a>
