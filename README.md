@@ -7,18 +7,21 @@
 
 ![Example SVG](https://raw.githubusercontent.com/chandankumarpanigrahi/chandankumarpanigrahi/44d82b16a321bc67f97514776ab8a3172b73cf99/dots.svg)
 
+![Example GIF](https://raw.githubusercontent.com/chandankumarpanigrahi/chandankumarpanigrahi/main/example.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankumarpanigrahi&label=Profile%20views&color=0e75b6&style=flat" alt="chandankumarpanigrahi" />  </p> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chandankumarpanigrahi&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) 
 
 <table align="right">
     <tbody><tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/milaan9/milaan9/blob/main/3898082.svg"><img src="https://github.com/milaan9/milaan9/raw/main/3898082.svg" width="25" style="max-width: 100%;"></a> Languages</td></tr>
-    <tr><td><a href="/milaan9/milaan9/blob/main/README.md"><img src="https://github.com/milaan9/milaan9/raw/main/197484.svg" height="15" style="max-width: 100%;"> English ★★★★☆</a></td></tr>
-    <tr><td><a href="/milaan9/milaan9/blob/main/README_pt.md"><img src="https://github.com/milaan9/milaan9/raw/main/3909444.svg" height="15" style="max-width: 100%;"> Hindi ★★★★☆</a></td></tr>
-    <tr><td><a href="/milaan9/milaan9/blob/main/README_pt.md"><img src="https://github.com/milaan9/milaan9/raw/main/3909444.svg" height="15" style="max-width: 100%;"> Odia ★★★★★</a></td></tr>
-    <tr><td><a href="/milaan9/milaan9/blob/main/README_pt.md"><img src="https://github.com/milaan9/milaan9/raw/main/3909444.svg" height="15" style="max-width: 100%;"> Sanskrit ★★★☆☆</a></td></tr>
-    <tr><td><a href="/milaan9/milaan9/blob/main/README_pt.md"><img src="https://github.com/milaan9/milaan9/raw/main/3909444.svg" height="15" style="max-width: 100%;"> Telugu ★☆☆☆☆</a></td></tr>
-</tbody></table>
+        <tr><td><a href="/milaan9/milaan9/blob/main/README.md"><img src="https://github.com/milaan9/milaan9/raw/main/197484.svg" height="15" style="max-width: 100%;"> English ★★★★☆</a></td></tr>
+        <tr><td><a href="/milaan9/milaan9/blob/main/README_pt.md"><img src="https://github.com/milaan9/milaan9/raw/main/3909444.svg" height="15" style="max-width: 100%;"> Hindi ★★★★☆</a></td></tr>
+        <tr><td><a href="/milaan9/milaan9/blob/main/README_pt.md"><img src="https://github.com/milaan9/milaan9/raw/main/3909444.svg" height="15" style="max-width: 100%;"> Odia ★★★★★</a></td></tr>
+        <tr><td><a href="/milaan9/milaan9/blob/main/README_pt.md"><img src="https://github.com/milaan9/milaan9/raw/main/3909444.svg" height="15" style="max-width: 100%;"> Sanskrit ★★★☆☆</a></td></tr>
+        <tr><td><a href="/milaan9/milaan9/blob/main/README_pt.md"><img src="https://github.com/milaan9/milaan9/raw/main/3909444.svg" height="15" style="max-width: 100%;"> Telugu ★☆☆☆☆</a></td></tr>
+</tbody>
+</table>
 
 - [👋](https://res.cloudinary.com/dyvcg2scr/raw/upload/v1691241458/chandan_tqx0va.css) Hi, I’m Chandan Kumar Panigrahi
 - 😚 I'm a Software Engineer at Bhubaneswar. As well as I'ma a Web Designer.
