@@ -26,7 +26,7 @@ UI/UX Designer & Frontend Developer (Bhubaneswar)
 - 🛠️ Stack: Next.js (App Router), React, Tailwind CSS, JavaScript  
 - 🎯 Focus: Clean UI, scalable components, better UX  
 - 🌐 Website: [Link](https://mrchamp.netlify.app) 
-- 🚀 Projects: [Link]([project.md](https://mrchamp.netlify.app/project))  
+- 🚀 Projects: [Link](https://mrchamp.netlify.app/project) 
 - 💬 Ask me about: UI/UX, React, Frontend  
 - 📫 Discord: MrChamp#4100
 
