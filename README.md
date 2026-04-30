@@ -5,11 +5,12 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4D61AA&width=435&lines=Eat+-+Sleep+-+Code+-+Repeat" alt="Typing SVG" /></a></p>
 
-![Example SVG](https://raw.githubusercontent.com/chandankumarpanigrahi/chandankumarpanigrahi/44d82b16a321bc67f97514776ab8a3172b73cf99/dots.svg)
+![Example SVG](https://raw.githubusercontent.com/chandankumarpanigrahi/chandankumarpanigrahi/44d82b16a321bc67f97514776ab8a3172b73cf99/dots.svg) 
+[![Peerlist](https://github-readme-badge.peerlist.io/api/mrchamp)](https://peerlist.io/mrchamp)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankumarpanigrahi&label=Profile%20views&color=0e75b6&style=flat" alt="chandankumarpanigrahi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankumarpanigrahi&label=Profile%20views&color=0e75b6&style=flat" alt="chandankumarpanigrahi" />  </p> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chandankumarpanigrahi&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chandankumarpanigrahi&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) 
 
 <table align="right">
     <tbody><tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/milaan9/milaan9/blob/main/3898082.svg"><img src="https://github.com/milaan9/milaan9/raw/main/3898082.svg" width="25" style="max-width: 100%;"></a> Languages</td></tr>
