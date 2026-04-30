@@ -5,8 +5,7 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4D61AA&width=435&lines=Eat+-+Sleep+-+Code+-+Repeat" alt="Typing SVG" /></a></p>
 
-![Example SVG](https://raw.githubusercontent.com/chandankumarpanigrahi/chandankumarpanigrahi/44d82b16a321bc67f97514776ab8a3172b73cf99/dots.svg) 
-[![Peerlist](https://github-readme-badge.peerlist.io/api/mrchamp)](https://peerlist.io/mrchamp)
+![Example SVG](https://raw.githubusercontent.com/chandankumarpanigrahi/chandankumarpanigrahi/44d82b16a321bc67f97514776ab8a3172b73cf99/dots.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankumarpanigrahi&label=Profile%20views&color=0e75b6&style=flat" alt="chandankumarpanigrahi" />  </p> 
 
