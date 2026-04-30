@@ -30,7 +30,7 @@
 - 👨‍💻 All of my projects are available at [Github](project.md)
 - 📝 I regularly write articles on [Medium](https://chandankumarpanigrahi.medium.com/)
 - 💬 Ask me about **HTML, CSS, JS, Bootstrap**
-
+![Example GIF](https://raw.githubusercontent.com/chandankumarpanigrahi/chandankumarpanigrahi/main/example.gif)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/chandankumarpanigrahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/chandankumarpanigrahi" height="30" width="40" /></a>
