@@ -72,3 +72,5 @@ UI/UX Designer & Frontend Developer (Bhubaneswar)
 
 
 <div><img src="https://api.roadmap.sh/v1-badge/wide/64c387a2e244f2be6a48e2f5?variant=dark" alt="roadmap.sh"/></div>
+
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
